@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferencesDemo</string>
+    <string name="next"><![CDATA[Next>>]]></string>
+    <string name="edittext">EditText</string>
+</resources>
